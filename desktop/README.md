@@ -8,7 +8,7 @@ Before running this application, make sure you have flutter installed.
 First, git clone the repository:
 `git clone https://github.com/sagar0698/github_client.git`
 
-Run the repository using"
+Run the repository using:
 `flutter run`
 
 For help getting started with Flutter, view
